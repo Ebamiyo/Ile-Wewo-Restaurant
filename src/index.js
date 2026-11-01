@@ -5,6 +5,7 @@ import menu from "./menu.js";
 import contact from "./contact-us.js";
 
 logo();
+home();
 
 const homeBtn = document.getElementById("home-page");
 homeBtn.textContent = "Home";
